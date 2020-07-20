@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>time table</title>
+	<title>time table for subjects</title>
 	<style>
 		table{
 			width: 600px;
